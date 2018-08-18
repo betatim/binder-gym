@@ -19,3 +19,4 @@ xserver-xorg-input-void
 xserver-xorg-video-dummy
 python-gtkglext1
 xpra
+xvfb
