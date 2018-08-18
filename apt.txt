@@ -1,8 +1,7 @@
-libav-tools
+ffmpeg
 python-setuptools
 libpq-dev
 libjpeg-dev
-curl
 cmake
 swig
 freeglut3
