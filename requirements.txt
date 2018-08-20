@@ -1,10 +1,10 @@
-box2d-py
-gym[atari]
-pandas
-ray[rllib]
-tensorflow
-torch
-torchvision
+box2d-py==2.3.4
+gym[atari]==0.10.5
+pandas==0.23.4
+ray[rllib]==0.5.0
+tensorflow==1.10.0
+torch==0.4.1
+torchvision==0.2.1
 
 # dev 
 pip-tools
